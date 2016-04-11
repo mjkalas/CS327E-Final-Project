@@ -1,0 +1,20 @@
+{
+  "request": {
+    "passengers": {
+      "adultCount": 1
+    },
+    "slice": [
+      {
+        "origin": "LAX",
+        "destination": "NYC",
+        "date": "2016-05-01"
+      },
+      {
+        "origin": "NYC",
+        "destination": "LAX",
+        "date": "2016-05-07"
+      }
+    ],
+    "solutions": "3"
+  }
+}
